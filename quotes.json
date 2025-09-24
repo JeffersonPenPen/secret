@@ -1,0 +1,92 @@
+[
+    {
+        "text": "A imaginação é mais importante que o conhecimento.",
+        "author": "Albert Einstein",
+        "tags": [
+            "ciência",
+            "imaginação",
+            "conhecimento"
+        ]
+    },
+    {
+        "text": "Penso, logo existo.",
+        "author": "René Descartes",
+        "tags": [
+            "filosofia",
+            "existência",
+            "pensamento"
+        ]
+    },
+    {
+        "text": "Conhece-te a ti mesmo.",
+        "author": "Socrates",
+        "tags": [
+            "filosofia",
+            "self",
+            "sabedoria"
+        ]
+    },
+    {
+        "text": "O que sabemos é uma gota, o que ignoramos é um oceano.",
+        "author": "Isaac Newton",
+        "tags": [
+            "ciência",
+            "ignorância",
+            "sabedoria"
+        ]
+    },
+    {
+        "text": "A felicidade depende de nós mesmos.",
+        "author": "Aristóteles",
+        "tags": [
+            "filosofia",
+            "felicidade",
+            "self"
+        ]
+    },
+    {
+        "text": "Eu sou a fonte da minha própria energia.",
+        "author": "Deepak Chopra",
+        "tags": [
+            "self help",
+            "energia",
+            "autoconhecimento"
+        ]
+    },
+    {
+        "text": "O universo não é apenas mais estranho do que imaginamos, é mais estranho do que podemos imaginar.",
+        "author": "Werner Heisenberg",
+        "tags": [
+            "ciência",
+            "universo",
+            "paradoxo"
+        ]
+    },
+    {
+        "text": "A vida não é medida pelo número de vezes que respiramos, mas pelos momentos que nos tiram a respiração.",
+        "author": "George Carlin",
+        "tags": [
+            "vida",
+            "experiência",
+            "momento"
+        ]
+    },
+    {
+        "text": "As estrelas brilham para mostrar que, mesmo na escuridão, há luz.",
+        "author": "Desconhecido",
+        "tags": [
+            "astrologia",
+            "universo",
+            "esperança"
+        ]
+    },
+    {
+        "text": "O que você resiste, persiste.",
+        "author": "Carl Jung",
+        "tags": [
+            "psicologia",
+            "resistência",
+            "mentalidade"
+        ]
+    }
+]
